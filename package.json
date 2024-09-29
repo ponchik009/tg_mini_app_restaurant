@@ -2,6 +2,7 @@
   "name": "tg_mini_app_react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ponchik009.github.io/tg_mini_app_restaurant/",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^18.3.1",
